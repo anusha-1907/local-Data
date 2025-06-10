@@ -1,0 +1,3 @@
+Now we are discussing about GIT ADD   we have 3 ways
+1.git add. operator
+2.git add * operator
